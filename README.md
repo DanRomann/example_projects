@@ -15,6 +15,9 @@ poetry run uvicorn main:app --reload
 
 ## Checklist
 
-- [ ] Docker-image
+- [x] Docker-image
 - [ ] k8s deployment
 - [ ] poetry-settings
+- [ ] linters [mypy]
+- [ ] pre-hook
+
